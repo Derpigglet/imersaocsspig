@@ -1,0 +1,31 @@
+.menu li {
+  list-style: none;
+}
+
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+  background: white;
+}
+
+body {
+  background: #999999;
+  font-family: Arial;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-title, .site-subtitle {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle {
+  
+}
